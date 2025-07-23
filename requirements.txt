@@ -1,6 +1,6 @@
 setuptools>=65.0.0
 wheel>=0.38.0
-gunicorn                 ✅ <--- Add this line
+gunicorn                
 build
 blinker==1.9.0
 click==8.2.1
